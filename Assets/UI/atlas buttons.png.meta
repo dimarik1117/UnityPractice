@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 532f044ee8d2b744d8806e5f171825d2
+guid: 71798dfb66129314289f4879720c8068
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,6 +107,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -127,18 +140,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 133
-        y: 1171
-        width: 845
-        height: 840
+        y: 1186
+        width: 827
+        height: 827
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60c44841813eee489c9454ba6d53c23
-      internalID: -224995622
+      spriteID: 51bd75ec41365a644a25894b0bb7c30d
+      internalID: 1316851857
       vertices: []
       indices: 
       edges: []
@@ -147,19 +160,19 @@ TextureImporter:
       name: atlas buttons_1
       rect:
         serializedVersion: 2
-        x: 1133
-        y: 1176
-        width: 811
-        height: 835
+        x: 1130
+        y: 1186
+        width: 827
+        height: 827
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31b81af94111bd84fa78095915edb869
-      internalID: 2123477337
+      spriteID: e657f4f8cf2a86942b33426d1bad899b
+      internalID: 104951329
       vertices: []
       indices: 
       edges: []
@@ -168,19 +181,19 @@ TextureImporter:
       name: atlas buttons_2
       rect:
         serializedVersion: 2
-        x: 153
-        y: 128
-        width: 787
-        height: 802
+        x: 133
+        y: 108
+        width: 827
+        height: 827
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8187fd90f62c8f54c93df58630068e8f
-      internalID: -169821560
+      spriteID: e342924c19ffc714e96e00e459b4325e
+      internalID: -246918076
       vertices: []
       indices: 
       edges: []
@@ -189,10 +202,10 @@ TextureImporter:
       name: atlas buttons_3
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 133
-        width: 792
-        height: 797
+        x: 1130
+        y: 108
+        width: 827
+        height: 827
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,8 +213,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55050204abe52714c9e85413a5a0863e
-      internalID: 1421195277
+      spriteID: 668881f626957d246b8dff554ea194d0
+      internalID: 567144070
       vertices: []
       indices: 
       edges: []
@@ -217,10 +230,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      atlas buttons_0: -224995622
-      atlas buttons_1: 2123477337
-      atlas buttons_2: -169821560
-      atlas buttons_3: 1421195277
+      atlas buttons_0: 1316851857
+      atlas buttons_1: 104951329
+      atlas buttons_2: -246918076
+      atlas buttons_3: 567144070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
