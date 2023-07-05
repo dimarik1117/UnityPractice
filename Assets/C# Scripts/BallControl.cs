@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class BallControl : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private Rigidbody2D _ballRigid;
+    [SerializeField] private float _force;
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        
+        Vector2 acceleration = Input.acceleration;
+        _ballRigid.velocity = new Vector2(acceleration.x * _force, acceleration.y * _force);
     }
 }
