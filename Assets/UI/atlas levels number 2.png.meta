@@ -150,8 +150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39447208342828e43b4ebc29f01b81c7
-      internalID: -1612990684
+      spriteID: 07cd3c3b74a944e4196a19d11b02aaef
+      internalID: 986746467
       vertices: []
       indices: 
       edges: []
@@ -171,8 +171,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b6a9e6642741e346925759b28fea923
-      internalID: -866315198
+      spriteID: 472f1ad401e9ba242914b764faafc2e8
+      internalID: -1243002927
       vertices: []
       indices: 
       edges: []
@@ -181,10 +181,10 @@ TextureImporter:
       name: atlas levels number 2_2
       rect:
         serializedVersion: 2
-        x: 120
-        y: 618
-        width: 678
-        height: 678
+        x: 122
+        y: 619
+        width: 675
+        height: 674
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f7162343ae5d4143b0dc70adfbd030b
-      internalID: 1586882690
+      spriteID: fb6c82b52b239644093f5481dde724ab
+      internalID: 1908426916
       vertices: []
       indices: 
       edges: []
@@ -202,10 +202,10 @@ TextureImporter:
       name: atlas levels number 2_3
       rect:
         serializedVersion: 2
-        x: 702
-        y: 36
-        width: 678
-        height: 679
+        x: 704
+        y: 37
+        width: 675
+        height: 674
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,8 +213,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84ec3311493aa034e8a59ee22dce4131
-      internalID: 381987400
+      spriteID: b22ee04b01fdbb444bc18265a260ac8f
+      internalID: 2007854705
       vertices: []
       indices: 
       edges: []
@@ -223,10 +223,10 @@ TextureImporter:
       name: atlas levels number 2_4
       rect:
         serializedVersion: 2
-        x: 1284
-        y: 618
-        width: 678
-        height: 678
+        x: 1286
+        y: 619
+        width: 675
+        height: 674
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,8 +234,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbfb372f026c51e4a8251cb6efb469a7
-      internalID: -1635504901
+      spriteID: bcedb2c190a59384bb723580074f5cc0
+      internalID: -2105153855
       vertices: []
       indices: 
       edges: []
@@ -251,11 +251,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      atlas levels number 2_0: -1612990684
-      atlas levels number 2_1: -866315198
-      atlas levels number 2_2: 1586882690
-      atlas levels number 2_3: 381987400
-      atlas levels number 2_4: -1635504901
+      atlas levels number 2_0: 986746467
+      atlas levels number 2_1: -1243002927
+      atlas levels number 2_2: 1908426916
+      atlas levels number 2_3: 2007854705
+      atlas levels number 2_4: -2105153855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

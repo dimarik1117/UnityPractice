@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c4e91f056742f647a36239741ec1988
+guid: 74169388510b042458c11aebf97eb0e5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,112 +134,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: atlas levels number_0
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 1350
-        width: 696
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e19bf693ae7d29640a3640123d1fb6aa
-      internalID: 891165951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: atlas levels number_1
-      rect:
-        serializedVersion: 2
-        x: 1277
-        y: 1350
-        width: 691
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35ac959dc0fa6194287778f0f01e227e
-      internalID: -907863082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: atlas levels number_2
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 606
-        width: 696
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b105a194b3e1b2440a038b2ef1305961
-      internalID: -1098297413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: atlas levels number_3
-      rect:
-        serializedVersion: 2
-        x: 679
-        y: 13
-        width: 690
-        height: 688
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8349d0f49c4dd49448aeb42890ec4c65
-      internalID: 1021480076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: atlas levels number_4
-      rect:
-        serializedVersion: 2
-        x: 1272
-        y: 606
-        width: 696
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf7b8529d17beb542a56eaedb5563a9f
-      internalID: 934134371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -250,12 +145,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      atlas levels number_0: 891165951
-      atlas levels number_1: -907863082
-      atlas levels number_2: -1098297413
-      atlas levels number_3: 1021480076
-      atlas levels number_4: 934134371
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
