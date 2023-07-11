@@ -5,9 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class FinishZone : MonoBehaviour
 {
+    public GameObject panel;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         GetComponent<SpriteRenderer>().sprite = null;
-	SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+	panel.SetActive(true);
+        Time.timeScale = 0f;
     }
 }

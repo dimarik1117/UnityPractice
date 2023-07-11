@@ -9,7 +9,19 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene(numberScenes);
     }
-
+    
+    public void NextLevel()
+    {
+        Time.timeScale = 1f;
+	SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    
+    public void Menu(int numberMenu)
+    {
+        SceneManager.LoadScene(numberMenu);
+        Time.timeScale = 1f;
+    }
+    
     public void Exit()
     {
         Application.Quit();
