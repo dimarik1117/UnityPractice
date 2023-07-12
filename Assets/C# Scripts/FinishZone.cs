@@ -7,8 +7,16 @@ public class FinishZone : MonoBehaviour
 {
     public GameObject panel;
 
+    private AudioSource Audios;
+
+    void Start()
+    {
+        Audios = GetComponent<AudioSource>();
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Audios.Play();
         GetComponent<SpriteRenderer>().sprite = null;
 	panel.SetActive(true);
         Time.timeScale = 0f;
