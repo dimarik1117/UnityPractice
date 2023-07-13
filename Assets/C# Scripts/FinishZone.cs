@@ -7,7 +7,7 @@ public class FinishZone : MonoBehaviour
 {
     public GameObject panel;
 
-    private AudioSource Audios;
+    public AudioSource Audios;
 
     void Start()
     {
